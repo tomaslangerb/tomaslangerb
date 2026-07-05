@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Cytometry In R
 
 Location: Buenos Aires, Argentina.
